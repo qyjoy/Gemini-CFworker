@@ -1,4 +1,6 @@
 # Gemini-CFworker
+![45DEDC7B-B31F-461C-B786-12FBAF1A5391](https://github.com/user-attachments/assets/46ccd556-3d67-465e-aee8-5f8b3c0c13ef)
+
 🌐 A simple Cloudflare Worker - Serverless &amp; Cost-Effective: No need to rent or manage your own server. Cloudflare Workers operate on a serverless model, and the free tier is often sufficient for personal use
 
 Cloudflare Worker AI Proxy
@@ -21,9 +23,8 @@ Supports Image Generation: Handles image generation responses from Imagen.
 支持图像生成： 支持从Imagen获取图像生成响应。
 👍 Advantages of using Cloudflare Worker | 👍 使用Cloudflare Worker的优点
 Deploying this AI proxy on Cloudflare Workers offers several key advantages:
-
+![Screenshot 2025-04-26 193722](https://github.com/user-attachments/assets/5a7e448a-222c-41d0-9a57-4fc0decc14c9)
 在Cloudflare Workers上部署这个AI代理提供了几个主要优势：
-
 Serverless & Cost-Effective: No need to rent or manage your own server. Cloudflare Workers operate on a serverless model, and the free tier is often sufficient for personal use.
 无服务器且经济高效： 无需租用或管理自己的服务器。Cloudflare Workers采用无服务器模型，并且免费套餐通常足以满足个人使用需求。
 No VPN Required for Access: For users in regions where direct access to Google APIs might be restricted, deploying the proxy on Cloudflare's global network can provide accessibility without the need for a VPN for the end-user.
